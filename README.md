@@ -15,9 +15,9 @@ Trouver mon channel_id : https://commentpicker.com/youtube-channel-id.php
 
 Ensuite il vous suffit de le remplacer dans le paramètre channel_id de l'uri de l'endpoint pour récupérer votre feed.
 
-Endpoint : https://www.youtube.com/feeds/videos.xml?channel_id=UCsT0YIqwnpJCM-mx7-gSA4Q!
+Endpoint : https://www.youtube.com/feeds/videos.xml?channel_id=UCsT0YIqwnpJCM-mx7-gSA4Q
 
-[3](https://raw.githubusercontent.com/thisiskeanyvy/youtube-feed-rss-vanilla-js/main/demo/3.png)
+![3](https://raw.githubusercontent.com/thisiskeanyvy/youtube-feed-rss-vanilla-js/main/demo/3.png)
 
 ## Intégration sur un site
 
